@@ -61,3 +61,6 @@ India
 
 🏷️ Tags
 Power BI • Data Visualization • Kaggle Dataset • Amazon Prime Video • Dashboard Project • Data Analytics 
+
+
+https://github.com/EeshanVC/Movie-and-TV-Shows-Dashboard-/blob/main/Screenshot%20of%20Dashboard.png
