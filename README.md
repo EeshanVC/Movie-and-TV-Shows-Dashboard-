@@ -64,3 +64,6 @@ Power BI • Data Visualization • Kaggle Dataset • Amazon Prime Video • Da
 
 
 Example: ![Dashboard Preview].(https://github.com/EeshanVC/Movie-and-TV-Shows-Dashboard-/blob/main/Screenshot%20of%20Dashboard.png)
+
+<img width="1273" height="706" alt="Screenshot of Dashboard" src="https://github.com/user-attachments/assets/fdd37d83-af7d-40c5-bf72-81c2fc9cd75f" />
+
